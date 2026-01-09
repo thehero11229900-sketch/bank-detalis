@@ -15,6 +15,7 @@ The system handles the digital lifecycle of a bank customer, including:
 * Profile Management
 * Account Relationship Mapping
 * Data Security and Compliance
+* 
 
 ---
 
