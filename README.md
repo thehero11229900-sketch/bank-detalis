@@ -9,7 +9,7 @@
 ### 1.1 Purpose
 This document provides a detailed description of the software requirements for the **Customer Module** of the Banking System. It is intended for developers, project managers, and QA testers.
 
-### 1.2 Scope
+### 1.2 Scope 
 The system handles the digital lifecycle of a bank customer, including:
 * Identity Verification (KYC)
 * Profile Management
